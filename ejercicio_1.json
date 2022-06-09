@@ -1,0 +1,10 @@
+{
+  "nombre": "Mike",
+  "apellido": "Matheou",
+  "sexo": "Male",
+  "direccion": "Av. Mugga Way 934",
+  "estado": "Canberra",
+  "pais": "Australia",
+  "gustos musicales": ["Aerosmith", "Metallica", "Dream Theater", "Deep Purple" ]
+}
+
